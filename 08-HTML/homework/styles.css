@@ -1,0 +1,22 @@
+
+
+h1 {
+    color: hsl(189, 54%, 22%);
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: lightsalmon;
+    padding: 50px;
+    border: 5px solid silver;
+}
+
+#spanId {
+    font-size: 18px;
+    padding: 50px;
+}
